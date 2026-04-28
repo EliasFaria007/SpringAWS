@@ -27,7 +27,6 @@
 - 📚 Spring Data JPA para persistência de dados
 - 🗄️ Suporte a PostgreSQL
 - ⚡ Spring DevTools para desenvolvimento mais rápido
-- 🔗 HATEOAS para APIs RESTful mais ricas
 
 ---
 
