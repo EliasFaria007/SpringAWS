@@ -6,7 +6,7 @@
 
 ## ✨ O que é esse projeto?
 
-**SpringAWS** é uma API REST desenvolvida com **Spring Boot 4.0.5** que oferece endpoints para consultar e gerenciar dados de funcionários e pessoas. É um projeto perfeito para quem está aprendendo ou desenvolvendo microserviços em Java! 🎓
+**SpringAWS** é uma API REST desenvolvida com **Spring Boot** que oferece endpoints para consultar e gerenciar dados de funcionários e pessoas. É um projeto perfeito para quem está aprendendo ou desenvolvendo microserviços em Java! 🎓
 
 ---
 
